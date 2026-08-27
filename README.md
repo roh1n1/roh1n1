@@ -14,10 +14,10 @@ Building intelligent data platforms, high-performance systems, and scalable ML a
 
 # 🚀 About Me
 🎓 **Computer Science @ Purdue University** (Minor in Mathematics | Expected May 2027)  
-⚡ Interested in **AI systems, data pipelines, and systems programming**  
-🧠 Experience in **RAG pipelines, agentic AI tools, web scraping ETL, and native Android development**  
+⚡ Interested in **AI systems, data engineering, and backend architecture**  
+💼 Primary development work (data acquisition pipelines, automated validation, agentic systems) active on **enterprise GitLab**  
 📊 Supported 600+ students as an **Undergraduate Teaching Assistant for CS182 (Discrete Math)**  
-🌱 Currently exploring **LLM applications, scalable data architectures, and low-level systems**
+🌱 Currently exploring **LLM applications, scalable data platforms, and agentic AI**
 
 ---
 
